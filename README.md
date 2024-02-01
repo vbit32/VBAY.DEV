@@ -1,2 +1,1 @@
-# VBAY.DEV
-portfolio with react
+static portfolio site xampp stack
