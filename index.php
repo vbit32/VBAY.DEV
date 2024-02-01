@@ -95,7 +95,7 @@
 							<h4 class="py-3">Los Angeles, USA</h4>
 							<a href="#" class="btn btn-dark px-5 py-3">Hire me</a>
 						</div>
-						<img src="images/banner.jpg" class="img-fluid" alt="photographer">
+						<img src="images/manga_header.svg" class="img-fluid" alt="photographer">
 					</figure>
 				</div>
 			</div>
